@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-for ch in range(97, 123):
-    print("ASCII value: " + str(ch) + ", Character: ", chr(ch))
+for i in range(97, 123):
+    print(chr(i), end='')
 
