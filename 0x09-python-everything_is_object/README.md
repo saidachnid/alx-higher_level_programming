@@ -1,1 +1,0 @@
-pyhon everything is object
